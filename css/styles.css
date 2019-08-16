@@ -6,4 +6,14 @@ body {
   text-align: center;
 }
  body {
-  background-color:#e492e8;
+  background-color:#ffbdd4;
+}
+body {
+  font-family: "Corbel", Times, serif;
+}
+a {
+  color: black
+}
+a:hover {
+  color:  black
+}
